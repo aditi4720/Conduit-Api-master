@@ -1,0 +1,13 @@
+.profile-banner {
+    widows: 100%;
+    background-color: gray;
+    text-align: center;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.follow-btn {
+    align-self: flex-end;
+}

@@ -1,0 +1,14 @@
+.aside-container {
+    height: 12rem;
+    width: 17rem;
+    background-color: #F3F3F3;
+    border-radius: 10px;
+}
+
+.aside-container h6 {
+    padding: 0.7rem 0.3rem 0.3rem 0.5rem;
+}
+
+.tag-container {
+    padding-left: 0.5rem;
+}
